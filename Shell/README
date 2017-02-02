@@ -1,0 +1,12 @@
+A simple shell created in my operating systems class. 
+Has built in functions for exiting, cd, and status. Redirects
+input and output accordingly.
+
+To compile the program, use the following command:
+
+gcc command.c smallsh.c main.c -o smallsh
+
+To run the program, use the following command:
+
+smallsh
+
