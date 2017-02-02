@@ -1,0 +1,6 @@
+A text based adventure game created in my Operating Systems Class.
+
+To compile:
+   gcc browncla.adventure.c -o adventure
+To run:
+   adventure
