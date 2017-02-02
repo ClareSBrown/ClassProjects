@@ -1,0 +1,36 @@
+An encrypter and decrypter created in my Operating Systems class.
+Uses sockets to send plaintext/ciphertext back and forth between
+client and server. Uses a key to encrypt/decrypt the files. All the 
+input must be in text files. 
+There are 5 important files:
+keygen - Takes a integer as an argument. Generates a file of random capital letters
+          between A and Z of the length specified in the argument.
+otp_enc_d - Takes a integer as an argument. Is intended to run in the background like 
+            a daemon and handles the encrypting. Listens on the port indicated by the 
+            argument.
+otp_dec_d - Takes a integer as an argument. Is intended to run in the background like 
+            a daemon and handles the decrypting. Listens on the port indicated by the 
+            argument.
+otp_enc - Takes two filenames and an integer as an argument. The first argument represents
+            the filename of the file with the plaintext that is to be encrypted. The second
+            argument represents the key with which the plaintext should be encrypted. The third
+            argument represents the port that the information should be sent to. This should match
+            the port that otp_enc_d is listening on to do the encryption. This program sends the
+            information to be encrypted. 
+otp_enc - Takes two filenames and an integer as an argument. The first argument represents
+            the filename of the file with the ciphertext that is to be decrypted. The second
+            argument represents the key with which the ciphertext should be decrypted. The third
+            argument represents the port that the information should be sent to. This should match
+            the port that otp_dec_d is listening on to do the decryption. This program sends the
+            information to be decrypted.
+
+To compile:
+compile all
+
+Usage:
+
+keygen sizeofkey
+otp_enc_d listening_port &
+otp_dec_d listening_port &
+otp_enc plaintext key port
+otp_dec ciphertext key port
