@@ -1,0 +1,7 @@
+A tic tac toe game made in my Intro to Computer Science class.
+Two users can play by entering the position that they would like
+to insert their symbol.
+
+Compile with:
+
+g++ TicTacToe.cpp Board.cpp -o TicTacToe

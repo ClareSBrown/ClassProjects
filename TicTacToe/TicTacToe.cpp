@@ -89,6 +89,5 @@ int main() {
 	TicTacToe tttgame(playerIn);
 	
 	tttgame.play();
-	system("pause");
 	return 0;
 }
