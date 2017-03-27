@@ -4,9 +4,9 @@ input and output accordingly.
 
 To compile the program, use the following command:
 
-gcc command.c smallsh.c main.c -o smallsh
+gcc command.c smallshell.c main.c -o smallshell
 
 To run the program, use the following command:
 
-smallsh
+smallshell
 

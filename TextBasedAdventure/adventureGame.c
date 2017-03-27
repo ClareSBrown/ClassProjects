@@ -1,7 +1,5 @@
 /*
-* Program 2: Adventure
 * Author: Clare Brown
-* ONID: browncla
 * Date: 10/24/16
 */
 
@@ -160,7 +158,7 @@ void roomsInit(){
 
 	//Creating directory
 	int pid = getpid();
-	char *startDir = "browncla.rooms.";
+	char *startDir = "rooms.";
 	snprintf(directoryName, 256, "%s%d", startDir, pid);
 	struct stat st = {0};
 	if (stat(directoryName, &st) == -1){
@@ -368,7 +366,7 @@ void printGRoom(struct GameRoom *tempGRoom){
 
 /*
 * A function that loads the contents of each of the room files stored in the directory 
-* browncal.rooms.<pid>. The information is stored in the array of pointers to GameRoom
+* rooms.<pid>. The information is stored in the array of pointers to GameRoom
 * structs that is passed as a parameter. The names of each of the rooms is stored in the
 * array of C style strings passed as a parameter with each index representing the id of the
 * GameRoom with that name. The id of the GameRoom that has type START_ROOM is stored in the location
@@ -395,7 +393,7 @@ void loadGame(struct GameRoom **gRoomArr, int * current_id, int * end_id, char *
 
 	//Getting path for files
 	int pid = getpid();
-	char *startDir = "browncla.rooms.";
+	char *startDir = "rooms.";
 	snprintf(directoryName, 256, "%s%d", startDir, pid);
 
 	//Opening each file and reading information into struct
@@ -489,7 +487,7 @@ int main(){
 
 	//Setting up temp file to store path
 	pid = getpid();
-	char *startDir = "browncla.rooms.";
+	char *startDir = "rooms.";
 	snprintf(directoryName, 256, "%s%d", startDir, pid);
 	sprintf(tempFileName, "%s/temp.txt", directoryName);
 

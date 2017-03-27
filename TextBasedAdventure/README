@@ -1,6 +1,12 @@
 A text based adventure game created in my Operating Systems Class.
+On initialization, randomly generates rooms based on the number of 
+rooms given and randomly connects the room in a bi-directional manner. 
+Sets a starting room and an end room and places all the information for
+each room in a .txt file for that room. When playing, presents player with
+the ability to choose the next room that they want to go into. Counts the 
+number of rooms until the player reaches the end and lists the path taken. 
 
 To compile:
-   gcc browncla.adventure.c -o adventure
+   gcc adventureGame.c -o adventure
 To run:
    adventure

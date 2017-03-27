@@ -1,9 +1,6 @@
 /*
-* Program 3: smallsh
 * Author: Clare Brown
-* ONID: browncla
 * Date: 11/16/16
-* filename: command.h
 * Description: The header file for the command functions
 */
 

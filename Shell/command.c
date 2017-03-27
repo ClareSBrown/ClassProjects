@@ -1,9 +1,6 @@
 /*
-* Program 3: smallsh
 * Author: Clare Brown
-* ONID: browncla
 * Date: 11/16/16
-* filename: command.c
 * Description: The implementation file for the command functions
 */
 
