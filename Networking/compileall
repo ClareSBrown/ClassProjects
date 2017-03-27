@@ -1,0 +1,19 @@
+#!/bin/bash
+# Author: Clare Brown
+# Date: 12/1/16
+# Description: File to make sure there are no strange characters in the plaintext 
+# files and to compile all of the 5 programs
+
+#Checking that the plaintext files do not have weird characters
+dos2unix plaintext1 &>/dev/null
+dos2unix plaintext2 &>/dev/null
+dos2unix plaintext3 &>/dev/null
+dos2unix plaintext4 &>/dev/null
+dos2unix plaintext5 &>/dev/null
+
+#Compiling
+gcc -o otp_encoder_d otp_encoder_d.c
+gcc -o otp_decoder_d otp_decoder_d.c
+gcc -o otp_encoder otp_encoder.c
+gcc -o otp_decoder otp_decoder.c
+gcc -o keygenerator keygenerator.c
