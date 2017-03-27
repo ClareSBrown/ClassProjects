@@ -1,0 +1,62 @@
+Team Cassiopeia Game Instructions for Spook the Bad Luck Cat
+
+Team: Clare Brown, Natasha Johnson, Grace Thompson 
+
+Playing the Game
+
+If you have a Windows computer, download the zip file located here: https://drive.google.com/file/d/0B8-M--l-XunXWWVEd2xmNWc2UDQ/view?usp=sharing 
+
+If you have a Mac computer, download the zip file located here: https://drive.google.com/file/d/0B8-M--l-XunXMnpPVklDZjBlcDQ/view?usp=sharing
+
+To play the game, simply open the Spook.exe file or SpookMac.app file after unzipping it. This will launch the game locally on your computer. Make sure that you keep the .exe file in the same folder as the Spook_Data file. Chose your desired quality settings when the prompt appears. Sound is a very important part of the player’s experience. Please ensure that you sound is on and audible as there are sound cues for various occurrences in the game. Note that if you do not select windowed, you will not be able to minimize the screen.
+
+The camera is moved by pushing the WASD keys, WS making the camera move up and down vertically and AD making the camera move horizontally. The mouse is used to click on objects around the scene and to click the ground to move.
+
+The camera can get into places where it is not supposed to sometimes. If you find that the camera has dipped beyond the wall, don’t press any keys for a few moments and let it rotate back into the room. If you find yourself well and truly stuck, try clicking around towards the room, rotating the camera, or both. 
+
+To interact with an item, simply click on it. Some items don’t do anything, some have a text reaction or animation and some might even hurt you. Most important interactable items are clearly defined by some sort of light animation to bring your attention to it. Some items can be picked up and carried. If you think something is an interactable and you can’t click on it, try moving the player or camera a little bit and clicking again.
+
+Your inventory is on the right side of your screen. It starts out empty and can hold five items. Spook is a bit magical you see, so he doesn’t need hands or a backpack to take things with him. If you find your inventory is too full, you can click on an item to use it or trash it. Be careful you don’t trash anything important! It’d be too bad if you have to go through an ordeal again to find another key to a room.
+
+When you first start the game, on the bottom left of the screen there is the text ‘Lives: 9’. Many things in the game can make Spook lose lives. Anything that might scare him or fight him can reduce your number of lives, but fear not dear player, your lives can be replenished with cat food. Each bowl provides one life, but your lives can’t go above 9. Be sure to use the cat food if you need it.
+
+Doors are a tricky thing. If they are locked and can be opened, they will tell you to find a key for them. If they are locked and don’t ask you for a key, you won’t be able to open them at all. Doors aren’t the only thing you can go through, keep an eye out for vents too! If you pass through a door and find it locked when you try to re-enter, you need to find the key for that door again! Be sure you are done in a room before you leave it.
+
+To open the menu, click the menu button in the lower right of the screen. From there you can Save, Load or Quit a game, view the Game Controls or Close the Menu. You can only have one save active at a time, so be careful where you save! To load a game, simply click on the Load button. To view the Game Controls, click on the button, it restates the click to interact and the WASD camera movement.
+
+Quick Navigation and Health Locations - Warning! Spoilers!
+
+Ball Haunt Path: Two Options
+	Path One: Living Room -> Kitchen -> Bathroom -> Vents -> Library
+	Path Two: Living Room -> Child Bedroom 1 -> Library 
+Mouse Haunt Path: One Option
+	Living Room -> Kitchen -> Child Bedroom 2 -> Bathroom -> Vents -> Master Bedroom
+
+Living Room Details:
+	The living room does not contain any food or keys that can be picked up. The player must retrieve the light source before the haunt-related objects are activated. The player may choose to interact with either the ball or the toy mouse, as the first object selected will trigger the corresponding storyline. The Ball haunt starts Spook on a hunt for food, while the Mouse haunt starts Spook on a hunt for a mysterious cat somewhere in the house. The doors to the library and kitchen begin locked, leaving the hallway door as the only available exit from the room. 
+
+Hallway Details:
+	The hallway does not contain any food or keys that can be picked up. Different doors will be unlocked depending on the haunt chosen. If the Ball haunt has been selected, the living room, child bedroom 1, and kitchen will be unlocked. If the Mouse haunt has been selected, only the living room and kitchen will be unlocked. As the player collects keys, more doors will become accessible.
+
+Kitchen Details:
+	The kitchen does not contain any cat food to regain lives. On initial entry, the player must find and interact with a mouse, and then interact with the plate on the floor. This activates food throughout the room, some of which can be collected to distract the mouse. Placing three different cheeses on the plate will cause the mouse to leave his hiding spot and move toward the cheeses, revealing a hidden key in his place. If the Ball haunt has been selected, this key will open the Bathroom door. If the Mouse haunt has been selected, the key will open the child bedroom 2 door. 
+	There are several dangers to Spook in this room. Getting too close to spray bottles will result in Spook getting sprayed and losing one life. Getting too close to the pile of cucumbers will cause Spook to lose three lives, and bumping into the mouse will also cause Spook to lose a life. 
+
+Child Bedroom 1 Details:
+	The child bedroom 1 room contains one bowl of cat food, a key to the library, and two ghost enemies, all of which are hiding in chests in the room. Clicking on a chest will open the chest and reveal what is hiding. Ghosts will chase Spook and bite him, causing him to lose a life with each bite. Leaving the room will reset the ghosts, making it safe to re-enter if need be. 
+
+Child Bedroom 2 Details:
+	The child bedroom 2 has a Cactus that the player must interact with in order to retrieve a key to the bathroom. The Cactus presents three riddles to the player. If the player answers all three correctly, clicking on the chest to the right of the Cactus will reveal a key, and clicking on the chest to the left will reveal a bowl of cat food. If the player only answers two riddles correctly, only the cat food will be given. If the player answers less than that, clicking on either chest will reveal a ghost enemy that will attack. The player can re-attempt to answer the riddles until they successfully retrieve the bathroom key. 
+
+Bathroom Details:
+	The bathroom does not contain any cat food, but does contain a vent knob that will grant access to the vents. To retrieve the knob, the player must first drain the bathtub by pressing on the button.
+
+Vents Details:
+	The vents contain three sources of cat food, and depending on the haunt, will have one accessible vent in addition to the bathroom vent entrance. If the Ball haunt is selected, the vent to the library will be unlocked. If the Mouse haunt is selected, the vent to the master bedroom will be unlocked. There are no enemies in the vents. 
+
+Master Bedroom:
+	This room is only accessible from the vents, and only if the Mouse haunt has been selected. There is another cat in this room, finding her will trigger the quest to find a hidden milk source. Find the milk source, and you win the game!
+
+Library:
+	This room does not contain any cat food for the player to regain lives, but does contain dangers. This room is only accessible if the Ball haunt has been selected, and can be accessed from the vents, hallway, or living room if the player has the key. Interacting with the stationary rat will trigger the quest to find rat food to trap the rat with. On interaction, the rat will begin to wander. Colliding with the rat will cause Spook to lose a life. Once the rat is wandering, there are four different books containing trivia questions. Answering correctly will reveal a clue to the location of the rat food. Answering at least one question correctly will allow the player to retrieve the rat food, hiding in the sideboard. As soon as the rat food is picked up, the rat will target the player so it is vital that the player quickly navigate to a position marked by a glowing orb and drop the food. Placing the rat food in the correct space will cause the rat to move to the food, triggering a trap from the ceiling that will trap the rat. If Spook is too close to the trap, he might get trapped too so keep away! Trapping the rat will reveal a plethora of food and you win the game!
+
