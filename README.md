@@ -1,2 +1,2 @@
-# OSU
-Programs completed throughout classes at Oregon State University
+# Class Projects
+Programs completed throughout classes at OSU
